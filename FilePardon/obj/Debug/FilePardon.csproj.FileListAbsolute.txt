@@ -1,0 +1,11 @@
+C:\Users\Awire\source\repos\FilePardon\FilePardon\bin\Debug\FilePardon.exe.config
+C:\Users\Awire\source\repos\FilePardon\FilePardon\bin\Debug\FilePardon.exe
+C:\Users\Awire\source\repos\FilePardon\FilePardon\bin\Debug\FilePardon.pdb
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.Main.resources
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.Properties.Resources.resources
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.csproj.GenerateResource.cache
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.exe
+C:\Users\Awire\source\repos\FilePardon\FilePardon\obj\Debug\FilePardon.pdb
